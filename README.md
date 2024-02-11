@@ -59,6 +59,6 @@ El informe de Power BI incluye una variedad de medidas clave que proporcionan in
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias de mejora, correcciones o nuevas ideas para el análisis, no dudes en abrir un problema o enviar un pull request. Trabajemos juntos para hacer que este proyecto sea aún más útil y efectivo.
 
 ## Link de desarrollo completo 
-https://www.novypro.com/project/venta-analaisis
+https://www.novypro.com/profile_projects/vicente-antoniomagallanes-juan
 
 https://app.powerbi.com/view?r=eyJrIjoiNTRjYTE0YTgtMjQwMy00MWM0LTg2MzYtZmVhMTBhZWQ4YmUyIiwidCI6IjkxMTVmY2FmLWE5NGQtNDBiMS1hM2JhLWIwNjJjODA1NTVlMCIsImMiOjl9
